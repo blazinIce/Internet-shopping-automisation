@@ -1,2 +1,3 @@
 ﻿# Internet-shopping-automisation
-# Trying to automize searching for item prices by article from an internet shop
+# This program automizes searching for item prices by article from an internet shop
+# An eventually returns the prices into an excel file
