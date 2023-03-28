@@ -9,7 +9,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 #site credentials
 username = "87241870dr"
-password = "dfjo6550"
+password = "*******"
 item = "	KKM11-018-400-10"
 
 # initialize the Chrome driver
